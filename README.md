@@ -7,7 +7,7 @@ The repository contains:
 - SolidWorks Assembly file (metric),
 - Electrical Schematic (IEC 60617:2015 standard),
 - Mechanical Drawing (metric)
-- Pictures and a video
+- Pictures 
 
 The code has the following structure:
 - Class leg, enables the instances of legs be created with offsets and conversion from degrees to PWM output
